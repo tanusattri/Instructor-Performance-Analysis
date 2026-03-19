@@ -52,7 +52,7 @@ The Random Forest model was evaluated on its ability to correctly classify the p
 2. Use the weighted Effectiveness Score to highlight top performing instructors for marketing and promotion.
 
 ### Setup and How to Run
-1. Installation
+1. Installation 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
